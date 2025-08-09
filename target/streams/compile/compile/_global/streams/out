@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-End\scala\scala-bloging\scala-bloging\src\main\scala\2.OOP\Constructor-field.scala:1:7: Person is already defined as class Person[0m
+[0m[[0m[31merror[0m] [0m[0mclass Person (val name: String, var age: Int) {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
