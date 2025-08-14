@@ -1,4 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-End\scala\scala-bloging\scala-bloging\src\main\scala\2.OOP\Constructor-field.scala:1:7: Person is already defined as class Person[0m
-[0m[[0m[31merror[0m] [0m[0mclass Person (val name: String, var age: Int) {[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-End\scala\scala-bloging\scala-bloging\src\main\scala\4.Pattern-Case\Pattern-Matching.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval x: Any = 42[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-End\scala\scala-bloging\scala-bloging\src\main\scala\4.Pattern-Case\Pattern-Matching.scala:3:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mx match {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
