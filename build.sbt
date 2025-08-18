@@ -26,7 +26,13 @@ version := "1.0"
 // You can define other libraries as dependencies in your build like this:
 
 libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "2.3.0"
+Compile / console / javaOptions += "-Dfile.encoding=UTF-8"
 
+// fork JVM 실행
+Compile / run / fork := true
+
+// JVM 인코딩 강제 UTF-8
+Compile / run / javaOptions += "-Dfile.encoding=UTF-8"
 // Here, `libraryDependencies` is a set of dependencies, and by using `+=`,
 // we're adding the scala-parser-combinators dependency to the set of dependencies
 // that sbt will go and fetch when it starts up.
