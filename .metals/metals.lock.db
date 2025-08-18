@@ -1,6 +1,6 @@
 #FileLock
-#Thu Aug 14 11:37:55 KST 2025
+#Mon Aug 18 20:23:15 KST 2025
 hostName=localhost
-id=198a670ed7f95bd8c95c66107ecb26e4cf62d119d21
+id=198bceb5171b4a7857c6a722be171bccfd7f12c8b21
 method=file
-server=localhost\:7060
+server=localhost\:14714

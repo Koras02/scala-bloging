@@ -1,7 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-End\scala\scala-bloging\scala-bloging\src\main\scala\4.Pattern-Case\Pattern-Matching.scala:1:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mval x: Any = 42[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-End\scala\scala-bloging\scala-bloging\src\main\scala\4.Pattern-Case\Pattern-Matching.scala:3:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mx match {[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-End\scala\scala-bloging\scala-bloging\src\main\scala\5.Error-Handling\try-catch-finally.scala:10:21: '=' expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m            val num "123a".toInt // NumberFormatException 에러 발생[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-End\scala\scala-bloging\scala-bloging\src\main\scala\5.Error-Handling\try-catch-finally.scala:11:1: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m            sb.append(s"변환된 숫자: $num\n")[0m
 [0m[[0m[31merror[0m] [0m[0m^[0m
 [0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
