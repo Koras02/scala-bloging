@@ -2,15 +2,15 @@
     "version": "1.4.0",
     "project": {
         "name": "scala-bloging-build",
-        "directory": "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project",
-        "workspaceDir": "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project",
+        "directory": "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project",
+        "workspaceDir": "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project",
         "sources": [
-            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\scala",
-            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\scala-2.12",
-            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\scala-2",
-            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\java",
-            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\scala-sbt-1.0",
-            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
+            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\scala",
+            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\scala-2.12",
+            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\scala-2",
+            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\java",
+            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\scala-sbt-1.0",
+            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
         ],
         "dependencies": [
             
@@ -104,11 +104,11 @@
             "C:\\Users\\wjdgh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna-platform\\5.12.0\\jna-platform-5.12.0.jar",
             "C:\\Users\\wjdgh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.4.2\\config-1.4.2.jar"
         ],
-        "out": "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\.bloop\\scala-bloging-build",
-        "classesDir": "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\.bloop\\scala-bloging-build\\scala-2.12\\sbt-1.0\\classes",
+        "out": "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\.bloop\\scala-bloging-build",
+        "classesDir": "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\.bloop\\scala-bloging-build\\scala-2.12\\sbt-1.0\\classes",
         "resources": [
-            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\resources",
-            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
+            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\src\\main\\resources",
+            "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -215,7 +215,7 @@
             "config": {
                 "home": "C:\\Program Files\\Java\\jdk-23",
                 "options": [
-                    "-Duser.dir=C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project"
+                    "-Duser.dir=C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project"
                 ]
             },
             "mainClass": [
@@ -224,11 +224,11 @@
             "runtimeConfig": {
                 "home": "C:\\Program Files\\Java\\jdk-23",
                 "options": [
-                    "-Duser.dir=C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project"
+                    "-Duser.dir=C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project"
                 ]
             },
             "classpath": [
-                "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-End\\scala\\scala-bloging\\scala-bloging\\project\\.bloop\\scala-bloging-build\\scala-2.12\\sbt-1.0\\classes",
+                "C:\\Users\\wjdgh\\Desktop\\bloging-tistory\\back-end\\scala\\scala-bloging\\scala-bloging\\project\\.bloop\\scala-bloging-build\\scala-2.12\\sbt-1.0\\classes",
                 "C:\\Users\\wjdgh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.13\\sbt-bloop_2.12_1.0-2.0.13.jar",
                 "C:\\Users\\wjdgh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.3.2\\bloop-config_2.12-2.3.2.jar",
                 "C:\\Users\\wjdgh\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.13.5.2\\jsoniter-scala-core_2.12-2.13.5.2.jar",
