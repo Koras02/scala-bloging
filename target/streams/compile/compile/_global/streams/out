@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-end\scala\scala-bloging\scala-bloging\src\main\scala\6.Collection-Data\mapFilter.scala:2:8: Map is already defined as object Map[0m
-[0m[[0m[31merror[0m] [0m[0mobject Map {[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\wjdgh\Desktop\bloging-tistory\back-end\scala\scala-bloging\scala-bloging\src\main\scala\7.asy-concurrency\executioncontext.scala:6:18: Implicit definition should have explicit type (inferred scala.concurrent.ExecutionContextExecutorService) [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m    implicit val ec = ExecutionContext.fromExecutorService(Executors.newFixedThreadPool(4))[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
